@@ -37,6 +37,7 @@ pickleshare==0.7.5
 platformdirs==2.5.0
 pluggy==1.0.0
 prompt-toolkit==3.0.28
+psycopg2==2.9.3
 pure-eval==0.2.2
 py==1.11.0
 pygame==2.0.2
@@ -53,7 +54,6 @@ stack-data==0.2.0
 tomli==2.0.1
 tornado==6.1
 traitlets==5.1.1
-typing_extensions==4.2.0
 virtualenv==20.13.3
 wcwidth==0.2.5
 Werkzeug==2.0.3
